@@ -1,0 +1,2 @@
+# Gemsoftradingchartbot
+Tradingview chart 
